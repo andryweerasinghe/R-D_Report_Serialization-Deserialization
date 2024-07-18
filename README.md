@@ -22,6 +22,8 @@ To put it exactly like this, deserialization is the reverse of serialization. It
 4. Time Saving: Compared to building a real object from a class, converting a byte stream to an object takes a lot less time.
 
 
+
+
     Benefits of Deserialization
 
 1. Instead of really generating an object from class, which takes a lot of time, it assists in reconstructing the object from the byte stream.
